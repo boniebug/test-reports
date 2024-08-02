@@ -1,4 +1,0 @@
-fileignoreconfig:
-- filename: results.json
-  checksum: 467834297acb0ea5a1ca60152b24aa59942b8c95de406805fa5a2cf5252ae85f
-version: "1.0"
