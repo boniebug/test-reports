@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: js-basics/index.min.js
+  checksum: 2acd67f0853de12cae71ed5bfcebc13bd3c6023579a05d83df1d1e6a0099b77c
+version: "1.0"
